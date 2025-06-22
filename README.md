@@ -10,8 +10,8 @@ This report summarizes the incident response process and mitigation strategy dev
 
 * **Incident Type:** Critical Malware Attack / Exploitation of Spring4Shell (CVE-2022-22965)
 * **Target System:** NBN Connection (nbn.external.network)
-* **Incident Start:** 2022-03-20T03:16:34
-* **Incident Resolution:** 2022-03-20T05:16:34 (2 hours after start)
+* **Incident Start:** 2022-03-20T03:16:34Z
+* **Incident Resolution:** 2022-03-20T05:16:34Z (2 hours after start)
 * **Impact:** P1 Critical - Service unavailable, functionality impaired due to Remote Code Execution (RCE) and web shell deployment. The RCE capability allowed for unauthorized command execution and web shell deployment, compromising the server's integrity and rendering the service inoperable.
 * **Teams Involved:** Telstra Security Operations, nbn Team, Networks Team.
 
