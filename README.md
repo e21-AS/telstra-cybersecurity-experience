@@ -1,4 +1,4 @@
-# telstra-security-experience
+# telstra-cybersecurity-experience
 Report from the Telstra Cybersecurity Virtual Experience.
 # Incident Response & Mitigation of Spring4Shell (CVE-2022-22965) - A Virtual Cybersecurity Experience
 
